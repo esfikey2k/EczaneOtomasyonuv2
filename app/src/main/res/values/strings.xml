@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Eczane Otomasyonu v2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="turkish_republic_identity_number_text">TC Kimlik Numarası</string>
+    <string name="pharmacy_automation_text">ECZANE\n OTOMASYONU</string>
+    <string name="query">SORGULA</string>
+    <string name="turkish_republic_identity_number_must_be_11_digits">TC Kimlik Numarası 11 haneli olmalı!</string>
+    <string name="base_url">https://api.npoint.io/</string>
+    <string name="try_again">TEKRAR DENE</string>
+    <string name="warning">UYARI</string>
+    <string name="warning_text">Gi̇rdi̇ği̇ni̇z TC ki̇mli̇k numarasının si̇stemde kaydı yoktur, yanlış olabi̇li̇r ya da boş olabilir lütfen tekrar deneyiniz.</string>
+    <string name="warning_connection_text">İnternet bağlantınız yavaş olabilir ya da kapalı olabilir. Lütfen kontrol edip tekrar deneyin.</string>
+    <string name="total_debt_text">Toplam Borç</string>
+    <string name="total_medicine_text">Toplam İlaç</string>
+    <string name="the_medicine_i_take_text">Aldığım İlaçlar</string>
+    <string name="sample_debt_text">109.87 ₺</string>
+    <string name="sample_medicine_quantity_text">3</string>
+    <string name="close_text">KAPAT</string>
+    <string name="description">Lütfen adınızı ve soyadınızı giriniz.</string>
+    <string name="name_surname_text">Ad Soyad</string>
+    <string name="sample_name_text">A**** T*****</string>
+    <string name="give_up_text">VAZGEÇ</string>
+    <string name="confirm_text">ONAYLA</string>
+    <string name="medicine_name_text">İlaç Adı</string>
+    <string name="status_text">Statü</string>
+    <string name="turkish_republic_text">TC</string>
+    <string name="medicines_name_text">İlacın Adı</string>
+    <string name="type_of_medicine_text">İlaç Türü</string>
+    <string name="type_of_medicines_text">İlacın Türü</string>
+    <string name="price_of_medicine_text">İlaç Fiyatı</string>
+    <string name="price_of_medicines_text">İlacın Fiyatı</string>
+    <string name="about_medicine_text">İlaç Hakkında</string>
+    <string name="information_medicine_text">İlaç Bilgisi</string>
+
+</resources>
