@@ -24,6 +24,7 @@ Projenin mobil tasarımına bu [link](https://www.behance.net/gallery/144389355/
   - Fragment
   - RecyclerView
 
+Projede kullanılan illüstrasyonlar [storyset](https://storyset.com/) sitesinden alınmıştır.
 
 ![1](https://user-images.githubusercontent.com/84785937/211318632-87827087-f406-4027-bb88-57cfa5b151ab.jpg)
 ![2](https://user-images.githubusercontent.com/84785937/211318835-bc355469-7f97-4600-b79f-f72915860097.jpg)
