@@ -10,7 +10,7 @@ Bu soruna çözüm olarak bu sistem geliştirildi, amacımız eczaneye gelip ila
 
 Web arayüzünde girilen kullanıcı ve borç bilgileri veritabanına(MongoDB) eklenir. Kullanıcının borç bilgilerini görmesi için yapılan bu uygulamada veriler API ile çekilir ve kullanıcı TC'sini girdikten sonra eğer sistemde kayıtlı ise ad soyad doğrulaması yapması gerekir. Ad soyad doğru ise kişi bilgilerini görebilir. Kullanıcının TC'si sistemde kayıtlı değilse kişi uyarı alır.
 
-**Not: Veriler şuan statik olarak çekilmektedir. İleride kodlar düzenlenecektir.**
+**Not: Veriler şuan statik olarak çekilmektedir.**
 
 Projenin backend(NodeJs) tarafına bu [link](https://github.com/fatihgumus59/Eczane-Otomasyonu) üzerinden erişebilirsiniz.
 
