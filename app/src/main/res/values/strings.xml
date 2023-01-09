@@ -32,5 +32,12 @@
     <string name="price_of_medicines_text">İlacın Fiyatı</string>
     <string name="about_medicine_text">İlaç Hakkında</string>
     <string name="information_medicine_text">İlaç Bilgisi</string>
+    <string name="first_screen">Giriş ekranında TC numarınız girmeniz gerekmektedir.</string>
+    <string name="second_screen">Eğer TC numaranız sistemde kayıtlı ise onaylamak için ekrana ad ve soyadınızı yazmanız gerekir. Eğer sistemde kaydınız yoksa uyarı hatası alırsınız.</string>
+    <string name="third_screen">Başarılı bir şekilde girdikten sonra ekranda bilgilerinizi görebilirsiniz.</string>
+    <string name="next">İleri</string>
+    <string name="finish">Bitir</string>
+    <string name="login_text">GİRİŞ</string>
+    <string name="main_page_text">ANASAYFA</string>
 
 </resources>

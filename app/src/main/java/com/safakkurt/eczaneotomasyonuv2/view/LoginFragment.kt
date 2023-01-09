@@ -92,7 +92,7 @@ class LoginFragment : Fragment() {
                         debtorModels= ArrayList(it)
                         println(debtorModels.toString())
                         debtorModels?.let {
-                            binding.buttonSorgula.setOnClickListener {
+                            binding.buttonQuery.setOnClickListener {
 
                                 try {
 
@@ -153,6 +153,7 @@ class LoginFragment : Fragment() {
 
                                             }else{
                                                 nameSurnameTextInputLayout.error= "Ad soyad eşleşmedi"
+
                                             }
 
                                         }
@@ -165,6 +166,7 @@ class LoginFragment : Fragment() {
 
                                 }catch (e: Exception){
                                     e.printStackTrace()
+                                    container.showDialog(R.layout.custom_dialog,R.id.buttonTryAgainCd)
                                 }
 
                             }
@@ -175,7 +177,7 @@ class LoginFragment : Fragment() {
 
             override fun onFailure(call: Call<List<DebtorModel>>, t: Throwable) {
                 t.printStackTrace()
-                binding.buttonSorgula.setOnClickListener {
+                binding.buttonQuery.setOnClickListener {
 
                     container.showDialog(R.layout.custom_connection_dialog,R.id.buttonTryAgainConnection)
 

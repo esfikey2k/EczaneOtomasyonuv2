@@ -5,6 +5,7 @@ import retrofit2.Call
 import retrofit2.http.GET
 
 interface DebtorAPI {
-    @GET("b9ab36c883215e19cd1e")
+    @GET("c1ed9ffa2f7cb4c93670")
     fun getData(): Call<List<DebtorModel>>
+    //b9ab36c883215e19cd1e
 }

@@ -12,14 +12,14 @@
         android:layout_width="345dp"
         android:layout_height="180dp"
         android:layout_marginTop="30dp"
-        android:src="@drawable/login1"
+        android:src="@drawable/login_draw"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Button
-        android:id="@+id/buttonSorgula"
+        android:id="@+id/buttonQuery"
         android:layout_width="350dp"
         android:layout_height="65dp"
         android:layout_marginTop="10dp"

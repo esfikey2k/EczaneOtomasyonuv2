@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.319" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/drawable/custom_detail_rectangle.xml" value="0.319" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/drawable/custom_dialog.xml" value="0.319" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/drawable/custom_medicine_number_rectangle.xml" value="0.319" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/drawable/ic_baseline_horizontal_rule_24.xml" value="0.319" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/drawable/ic_smainpage.xml" value="0.319" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.264" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/custom_connection_dialog.xml" value="0.4" />
@@ -14,7 +16,13 @@
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/custom_login_dialog.xml" value="0.4" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/custom_medicine_graph_dialog.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/fragment_details.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/fragment_first_screen.xml" value="0.2" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/fragment_second_screen.xml" value="0.4" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/fragment_splash.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/fragment_splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/fragment_third_screen.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/fragment_view_pager.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/EczaneOtomasyonuv2/app/src/main/res/layout/recycler_row.xml" value="0.36666666666666664" />
       </map>
     </option>

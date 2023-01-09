@@ -47,7 +47,7 @@
             </LinearLayout>
 
             <Button
-                android:id="@+id/buttonConfirm"
+                android:id="@+id/buttonTryAgainCd"
                 android:layout_width="130dp"
                 android:layout_height="55dp"
                 android:layout_gravity="center"
