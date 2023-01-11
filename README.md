@@ -23,6 +23,7 @@ Projenin mobil tasarımına bu [link](https://www.behance.net/gallery/144389355/
   - ViewPager2
   - Fragment
   - RecyclerView
+  - ViewBinding
 
 Projede kullanılan illüstrasyonlar [storyset](https://storyset.com/) sitesinden alınmıştır.
 
